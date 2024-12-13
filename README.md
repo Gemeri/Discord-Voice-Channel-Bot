@@ -29,7 +29,7 @@ Follow these steps to set up the Discord Voice Channel Bot on your server:
 1. **Clone the Repository:**
 
    ```
-   git clone https://github.com/YourUsername/Discord-Voice-Channel-Bot.git
+   git clone https://github.com/Gemeri/Discord-Voice-Channel-Bot
    ```
 
 2. **Navigate to the Project Directory:**
@@ -43,6 +43,12 @@ Follow these steps to set up the Discord Voice Channel Bot on your server:
    ```
    npm install discord.js @discordjs/voice @discordjs/rest openai microsoft-cognitiveservices-speech-sdk dotenv prism-media wav
    ```
+
+4. **Run Program**
+
+```
+node main.js
+```
 
 ## Setup
 
@@ -149,7 +155,7 @@ Contributions are welcome! Follow these steps to contribute to the project:
 1. **Fork the Repository:**
 
    ```
-   git clone https://github.com/YourUsername/Discord-Voice-Channel-Bot.git
+   git clone https://github.com/Gemeri/Discord-Voice-Channel-Bot
    ```
 
 2. **Create a New Branch:**
